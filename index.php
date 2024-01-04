@@ -1,20 +1,22 @@
 <?php 
 require 'inc/dbconnect.php';
-include 'inc/bootstrap.php';
+include 'inc/css.php';
 ?>
 
 
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
-</head>
 
 <body>
-
+    <div class="container">
+        <h1> Aaron de Bruin </h1>
+        <div class="item">
+            <h2> Jaar 1 <h2>
+                    <ul class="list-item">
+                        <li>Notule</li>
+                        <li>Portfolio</li>
+                    </ul>
+        </div>
+    </div>
 </body>
 
 </html>

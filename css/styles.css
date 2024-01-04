@@ -1,0 +1,15 @@
+body {
+    background-color: #F8F7F3;
+    font-family: 'Arial', sans-serif;
+
+}
+
+.container {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.list-item {
+    font-size: 17px;
+}
